@@ -16,6 +16,7 @@
     "url": "https://tailadmin.com"
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@headlessui/react": "^1.7.19",
     "@react-oauth/google": "^0.12.1",
